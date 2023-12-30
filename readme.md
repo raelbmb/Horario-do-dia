@@ -7,9 +7,6 @@
   
 </p>
 
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
 
 <br>
 
@@ -19,8 +16,8 @@
 
 ## 💻 Projeto
 
-<p>Este projeto tem  mostra data, hora e dia da semana, e seus temas como cores de fundo e imagem, mudam de acordo com o horário do dia.</p>
-<p>Exemplo: se for de manhã, o tema será de acordo com o horário da manhã, e aparecerá a frase de "Bom dia".</p> 
+<p>Este projeto mostra data, hora e também qual dia da semana você está, e seus temas como cores de fundo e imagem, mudam de acordo com o horário do dia.</p>
+<p>Exemplo: se for de manhã, o tema será de acordo com o horário da manhã, e aparecerá a frase de "Bom dia", além do horário e dia da semana.</p> 
 
 <br>
 
