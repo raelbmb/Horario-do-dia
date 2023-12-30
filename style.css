@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+body{
+    background-image: linear-gradient(to left ,black, rgb(14, 15, 80),#004e72, #000000, rgb(18, 104, 131), #373186 );
+    background-size: 500%, 100%;
+    color: rgb(63, 61, 61);
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+
+    animation: degrade-animado 7s infinite alternate;
+}
+
+/* Animação da página*/
+
+@keyframes degrade-animado {
+    0%{
+        background-position: 0%;
+        
+    }
+    100%{
+        background-position: 100%;
+    }
+}
+
+
+
+
+
+div#interface{
+    
+    position: relative;
+    background-color: rgb(167, 167, 167);
+    border:  solid rgb(255, 255, 255) 7px;
+    border-radius: 12px;
+    text-align: center;
+    width: 850px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    padding: 10px;
+
+}
+
+p#hora{
+    font-weight: 700;
+    font-size: 50px;
+    text-shadow: 6px 6px 10px rgba(0, 0, 0, 0.562);
+}
+
+header{
+    text-transform:uppercase;
+    
+}
