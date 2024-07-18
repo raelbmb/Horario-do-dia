@@ -17,7 +17,7 @@
 ## 💻 Projeto
 
 <p>Este projeto mostra data, hora e também qual dia da semana você está, e seus temas como cores de fundo e imagem, mudam de acordo com o horário do dia.</p>
-<p>Exemplo: se for de manhã, o tema será de acordo com o horário da manhã, e aparecerá a frase de "Bom dia", além do horário e dia da semana.</p> 
+<p>Exemplo: se for de manhã, o tema será de acordo com o horário da manhã, e aparecerá a frase de "Bom dia", se for de noite ele lhe desejará "Boa Noite!", além do horário e dia da semana.</p> 
 
 <br>
 
@@ -25,7 +25,8 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML
+- CSS
 - JavaScript
 - Git e Github
 
